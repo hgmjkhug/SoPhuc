@@ -79,4 +79,5 @@ int main()
 	b.Insinhvien(n, a);
 	return 0;
 	// wanna add some functions
+	// but dont wanna do anything right 
 }

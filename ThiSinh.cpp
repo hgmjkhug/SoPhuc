@@ -78,4 +78,5 @@ int main()
 	b.Nhapsinhvien(n, a);
 	b.Insinhvien(n, a);
 	return 0;
+	// wanna add some functions
 }
